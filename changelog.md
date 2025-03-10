@@ -1,5 +1,5 @@
-# Hidden-Mods LITE ( v1.0.0 )
-- Initial Release
+# Hidden-Mods LITE ( v1.2.0 )
+- Fix few bugs
 
 ## License
 
