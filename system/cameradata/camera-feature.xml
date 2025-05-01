@@ -17,7 +17,7 @@
     <local name="SHOOTING_MODE_SUPER_SLOW_MOTION" back="SUPER_SLOW_MOTION" enable="true" more="true" order="11" preview-size="1920x1080" capture-size="1920x1080"/>
     <local name="SHOOTING_MODE_SLOW_MOTION" back="SLOW_MOTION" front="SLOW_MOTION" enable="true" more="true" order="12" preview-size="1920x1080" capture-size="1920x1080"/>
     <local name="SHOOTING_MODE_HYPER_LAPSE" back="HYPER_LAPSE" front="HYPER_LAPSE" enable="true" more="true" order="13" preview-size="1920x1080" capture-size="1920x1080"/>
-    <local name="SHOOTING_MODE_LIVE_FOCUS_VIDEO" back="LIVE_FOCUS_VIDEO" front="LIVE_FOCUS_VIDEO" enable="true" more="true" order="14" preview-size="1920x1080" capture-size="1920x1080"/>
+    <local name="SHOOTING_MODE_DUAL_RECORDING_V2" back="DUAL_RECORDING_V2" front="DUAL_RECORDING_V2" enable="true" more="true" order="15" preview-size="1920x1080"/>
     <local name="SHOOTING_MODE_QR" back="QR" enable="true" more="false" order="100" preview-size="2400x1080"/>
 
     <!-- Capture resolution - BACK -->
@@ -105,6 +105,7 @@
     <local name="SUPPORT_RECORDING_LENS_CHANGE" value="true"/>
     <local name="BACK_WIDE_CAMERA_ID" value="50"/>
     <local name="BACK_MACRO_CAMERA_ID" value="54"/>
+    <local name="SUPPORT_SEAMLESS_ZOOM" value="true"/>
     <local name="FRONT_CROP_FOV_CAMERA_ID" value="3"/>
     <local name="SUPPORT_NIGHT_MODE_REAR_LENS" value="true"/>
     <local name="DIGITAL_ZOOM_SHORTCUT_LIST" value="10.0, 30.0, 100.0"/>
