@@ -105,12 +105,9 @@
     <local name="SUPPORT_RECORDING_LENS_CHANGE" value="true"/>
     <local name="BACK_WIDE_CAMERA_ID" value="50"/>
     <local name="BACK_MACRO_CAMERA_ID" value="54"/>
-    <local name="SUPPORT_SEAMLESS_ZOOM" value="true"/>
     <local name="FRONT_CROP_FOV_CAMERA_ID" value="3"/>
     <local name="SUPPORT_NIGHT_MODE_REAR_LENS" value="true"/>
     <local name="DIGITAL_ZOOM_SHORTCUT_LIST" value="10.0, 30.0, 100.0"/>
-
-    <local name="MAX_SEAMLESS_ZOOM_RECORDING_TIME_LIMIT_IN_OVERHEAT_CONDITION" value="300"/>
 
     <!-- Support picture format -->
     <local name="CAMERA_SUPPORT_PICTURE_FORMAT" value="true"/> 
@@ -207,7 +204,6 @@
     <local name="SUPPORT_VIDEO_HIGH_BITRATE" value="true"/>
     <local name="SUPPORT_POST_PROCESSING_NIGHT_SHOT" value="true"/>
     <local name="SUPPORT_POST_PROCESSING_MAX_NIGHT_SHOT" value="true"/>
-    <local name="SUPPORT_VIDEO_MODE_ZOOM_ROCKER" value="true"/>
     <local name="SUPPORT_PRO_VIDEO_ZOOM_ROCKER" value="true"/>
     <local name="SUPPORT_NIGHT_CIRCLE_SCREEN_FLASH" value="true"/>
 

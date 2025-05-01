@@ -1,6 +1,5 @@
-# Hidden-Mods LITE ( v1.3.0 )
-- Add new camera features.
-- Remove unsupported features with KSUN.
+# Hidden-Mods LITE ( v1.4.0 )
+- Fix unsupported features with KSUN.
 
 ## License
 
