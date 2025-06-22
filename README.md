@@ -1,5 +1,5 @@
-![1000019785](https://github.com/Aflaungos/M23-Hidden-Mods/blob/A14_1/MagiskMod.jpg)
-# M23 Hidden Mods OneUI 6.1
+![1000019785](https://github.com/Aflaungos/M23-Hidden-Mods/blob/A15/banner.jpg)
+# M23 Hidden Mods OneUI 7
 A magisk module adding OneUI mods to the Samsung Galaxy M23/F23 5G
 
 [XDA Thread of M23 Hidden Mods](https://forum.xda-developers.com/t/mod-oneui-m23-hidden-mods.4626443)
@@ -31,7 +31,7 @@ A magisk module adding OneUI mods to the Samsung Galaxy M23/F23 5G
   1. Wipe cache partition</br>
   2. Wipe dalvik cache</br>
 
-- To fix Samsung Health root detection, I recommend using [KnoxPatch](https://github.com/salvogiangri/KnoxPatch)
+- To fix Samsung apps, I recommend using [KnoxPatch](https://github.com/salvogiangri/KnoxPatch)
 
 ### 🪲 Known bugs
 - Please report here or in Telegram, if you find any
@@ -43,11 +43,8 @@ A magisk module adding OneUI mods to the Samsung Galaxy M23/F23 5G
 - DT2W feature
 - Photo Remaster
 - Generative AI Wallpaper
-- Almost all AI features (Missing SPen stuff)
+- All AI features (WIP)
 - Disabled Samsung Marketing Info
-- Bixby
-- China Smart Manager
-- Samsung Galaxy S24 Boot Animation
 - Enable more Screen recorder features
 - Secure WiFi
 - ...

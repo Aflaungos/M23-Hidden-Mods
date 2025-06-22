@@ -1,0 +1,6 @@
+libruntime.vexfwk.samsung.so
+libmetadata.vexfwk.samsung.so
+libandroid.vexfwk.samsung.so
+libcommon-jni.vexfwk.samsung.so
+libsdk-jni.vexfwk.samsung.so
+libsdk-v2-jni.vexfwk.samsung.so

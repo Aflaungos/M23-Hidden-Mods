@@ -1,0 +1,3 @@
+libgfxgrab.gpuwatchapp.samsung.so
+libgpustat.gpuwatchapp.samsung.so
+libsysinfo.gpuwatchapp.samsung.so

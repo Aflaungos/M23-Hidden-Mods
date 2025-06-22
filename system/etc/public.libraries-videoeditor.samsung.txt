@@ -1,0 +1,1 @@
+libveframework.videoeditor.samsung.so 64
