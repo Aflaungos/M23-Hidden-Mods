@@ -1,14 +1,14 @@
 ![1000019785](https://github.com/Aflaungos/M23-Hidden-Mods/blob/A14_1/MagiskMod.jpg)
-# M23 Hidden Mods OneUI 6.1
+# M23 Hidden Mods OneUI 6.1 LITE
 A magisk module adding OneUI mods to the Samsung Galaxy M23/F23 5G
 
 [XDA Thread of M23 Hidden Mods](https://forum.xda-developers.com/t/mod-oneui-m23-hidden-mods.4626443)
 
 > ⚠️ Note: If using **KernelSU**, disable "**Unmount modules by default**" to allow some features from this module to work!
 
-### NEW✨ LITE Version:
+### LITE Version:
 - Much lighter version of FULL
-- Does not have Galaxy AI
+- Does not have Galaxy AI Features
 - Better boot time
   
 ### ⚙️ Installation:
@@ -40,16 +40,9 @@ A magisk module adding OneUI mods to the Samsung Galaxy M23/F23 5G
 - High-End Animations
 - Enhanced CPU Responsiveness
 - ADPS (Wi-Fi Power Saving)
-- DT2W feature
-- Photo Remaster
-- Generative AI Wallpaper
-- Almost all AI features (Missing SPen stuff)
 - Disabled Samsung Marketing Info
-- Bixby
-- China Smart Manager
 - Samsung Galaxy S24 Boot Animation
 - Enable more Screen recorder features
-- Secure WiFi
 - ...
 
 #### ✨ Added Camera Features:
@@ -62,5 +55,4 @@ A magisk module adding OneUI mods to the Samsung Galaxy M23/F23 5G
 - Full Intelligent Recognition (like Smart Scan Text Extraction)
 - Full Live Focus (all S-Series effects)
 - Higher Gallery Zoom Quality
-- Video Auto FPS
 - ...
